@@ -30,21 +30,22 @@ https://public.tableau.com/app/profile/eyazharasi.kumar/viz/CustomerSegmentAnaly
 
 ## Business Questions & Answers
 
-**1. Which customer segment generates the highest sale?
+1. Which customer segment generates the highest sale?
 - Member customers generate the highest sales.
 
-**2. Which customer group purchases most frequently?
+2. Which customer group purchases most frequently?
 - Member customers purchase more frequently.
 
-**3. Which payment method is most preferred?
+3. Which payment method is most preferred?
 - Cash 
-**4. Which product category is most popular?
+
+4. Which product category is most popular?
 - Food and Beverages 
 
-**5. Which city contributes the highest revenue?
+5. Which city contributes the highest revenue?
 - Naypyitaw 
 
-**6. Which customer segment should the business focus on?
+6. Which customer segment should the business focus on?
 - Member customers.
 
 ---
