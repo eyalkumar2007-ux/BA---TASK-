@@ -173,3 +173,29 @@ The Area Chart clearly shows the monthly sales trend and helps identify changes 
 ## Dashboard Link
 
 https://public.tableau.com/app/profile/eyazharasi.kumar/viz/BusinessTrendAnalysisDashboard/Dashboard1#1
+# Week 7 - Business Performance Analysis using Scatter Plot
+
+**Dataset:** Supermarket Sales Dataset (Kaggle)  
+**Tool:** Tableau Public  
+
+## Objective
+To analyze the relationship between different business measures using a Scatter Plot and identify useful trends that support business decision-making.
+
+## Visualizations Created
+1. **Quantity vs Sales – Scatter Plot**
+2. **Sales by Product Line – Bar Chart**
+3. **Sales by Branch – Bar Chart**
+4. **Sales by Customer Type – Pie Chart**
+
+## Business Insights
+- The Scatter Plot helps identify the relationship between **Quantity and Sales**.
+- Higher quantities generally contribute to higher sales values.
+- Different product lines show different levels of sales performance.
+- Branch-wise analysis helps identify branches with better sales contribution.
+- Customer type analysis shows the purchasing contribution of different customer groups.
+
+## Conclusion
+The dashboard provides a clear view of business performance using a Scatter Plot and supporting visualizations. The analysis helps understand sales patterns, customer behavior, and product performance for better business decision-making.
+
+## Tableau Public Dashboard
+https://public.tableau.com/app/profile/eyazharasi.kumar/viz/SalesAnalysis_17884925740910/Dashboard1#1
