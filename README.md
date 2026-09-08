@@ -173,7 +173,8 @@ The Area Chart clearly shows the monthly sales trend and helps identify changes 
 ## Dashboard Link
 
 https://public.tableau.com/app/profile/eyazharasi.kumar/viz/BusinessTrendAnalysisDashboard/Dashboard1#1
-# Week 7 - Business Performance Analysis using Scatter Plot
+ ======================================================================================================================================================
+## Week 7 - Business Performance Analysis using Scatter Plot
 
 **Dataset:** Supermarket Sales Dataset (Kaggle)  
 **Tool:** Tableau Public  
@@ -199,3 +200,37 @@ The dashboard provides a clear view of business performance using a Scatter Plot
 
 ## Tableau Public Dashboard
 https://public.tableau.com/app/profile/eyazharasi.kumar/viz/SalesAnalysis_17884925740910/Dashboard1#1
+ ======================================================================================================================================================
+ # Week 8 - Business Category Analysis using Tree Map in Tableau
+
+**Dataset:** Supermarket Sales Dataset (Kaggle)  
+**Tool:** Tableau Public  
+
+## Objective
+To analyze the contribution of different business categories using a Tree Map and identify the categories that have the greatest impact on business performance.
+
+## Tree Map Analysis
+- **Product Line** is used as the category.
+- **Sales** represents the size of each block.
+- **Gross Income** represents the colour of each block.
+- The Tree Map makes it easy to compare the contribution of different product categories.
+
+## Business Insights
+- Different product lines contribute differently to overall sales.
+- The Tree Map helps identify the highest-performing product categories.
+- Branch-wise sales show differences in business performance across locations.
+- Customer types contribute differently to total sales.
+- Gender-wise analysis provides additional information about customer purchasing patterns.
+
+## Business Recommendations
+- Focus on high-performing product lines to maintain strong sales.
+- Improve marketing and promotional strategies for lower-performing categories.
+
+## Conclusion
+The Tableau dashboard provides a clear visual analysis of business categories using a Tree Map and supporting charts. It helps identify important sales patterns and supports better business decision-making.
+
+## Tableau Public Dashboard
+**Dashboard Link:** https://public.tableau.com/app/profile/eyazharasi.kumar/viz/salesanalysistask8/Dashboard1#1
+
+
+
