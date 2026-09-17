@@ -231,6 +231,39 @@ The Tableau dashboard provides a clear visual analysis of business categories us
 
 ## Tableau Public Dashboard
 **Dashboard Link:** https://public.tableau.com/app/profile/eyazharasi.kumar/viz/salesanalysistask8/Dashboard1#1
+# Week 9 - Business Trend Analysis using Line Graph in Tableau
+
+**Dataset:** Supermarket Sales Dataset (Kaggle)  
+**Tool:** Tableau Public  
+
+## Objective
+To analyze changes in business performance over time using a Line Graph and identify important sales trends and changes.
+
+## Visualizations Created
+1. **Sales Trend – Line Graph**
+2. **Sales by Product Line – Bar Chart**
+3. **Sales by Branch – Bar Chart**
+4. **Sales by Customer Type – Pie Chart**
+
+## Interactive Filter
+- **Product Line** filter is added to the dashboard to interactively analyze sales trends for different product categories.
+
+## Business Insights
+- The Line Graph shows how sales change across different periods.
+- The highest and lowest sales periods can be identified from the trend.
+- Increasing and decreasing patterns are visible over time.
+- Sudden peaks or drops can be observed and further analyzed using the dashboard filter.
+- Product line and branch-wise visualizations help compare overall business performance.
+
+## Business Recommendations
+- Focus on periods and product categories showing strong sales performance.
+- Investigate periods with sudden sales drops and improve promotions or business strategies accordingly.
+
+## Conclusion
+The Tableau dashboard provides a clear view of business performance over time using a Line Graph and supporting visualizations. The interactive filter makes it easier to analyze specific product categories and identify useful trends for business decision-making.
+
+## Tableau Public Dashboard
+**Dashboard Link:** https://public.tableau.com/app/profile/eyazharasi.kumar/viz/SalesTrendtask9/Dashboard1#1
 
 
 
