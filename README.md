@@ -265,5 +265,63 @@ The Tableau dashboard provides a clear view of business performance over time us
 ## Tableau Public Dashboard
 **Dashboard Link:** https://public.tableau.com/app/profile/eyazharasi.kumar/viz/SalesTrendtask9/Dashboard1#1
 
+# Week 10 - Business Analysis using Scatter Plot in Tableau
+
+## Dataset
+Supermarket Sales Dataset (Kaggle)
+
+## Tool
+Tableau Public
+
+## Objective
+To analyze the relationship between Quantity and Sales using a Scatter Plot and identify useful business patterns.
+
+## Visualizations Created
+
+1. **Quantity vs Sales – Scatter Plot**
+   - Quantity is used on the X-axis.
+   - Sales is used on the Y-axis.
+   - Each point represents a transaction.
+   - Customer Type is used to differentiate the points.
+
+2. **Sales by Product Line – Bar Chart**
+
+3. **Sales by Branch – Bar Chart**
+
+4. **Sales by Customer Type – Pie Chart**
+
+## Business Questions
+
+### 1. Does higher quantity generally lead to higher sales?
+The Scatter Plot helps identify the relationship between the quantity purchased and the sales amount.
+
+### 2. Which product lines contribute more to sales?
+The bar chart compares sales across different product lines.
+
+### 3. How do branches perform in terms of sales?
+Branch-wise sales are compared to understand the contribution of each branch.
+
+### 4. How do different customer types contribute to sales?
+The customer type chart shows the sales contribution from Member and Normal customers.
+
+## Business Insights
+
+- The Scatter Plot shows the relationship between Quantity and Sales.
+- Higher quantities generally contribute to higher sales values.
+- Sales performance varies across different product lines.
+- Branch-wise analysis helps identify differences in business performance.
+- Customer type analysis shows the contribution of different customer groups.
+
+## Business Recommendations
+
+- Focus on product lines with higher sales contribution.
+- Analyze customer purchasing patterns to improve sales and customer engagement.
+
+## Conclusion
+
+The Scatter Plot and supporting visualizations provide a clear view of sales performance and purchasing patterns. Tableau helps in understanding relationships between business measures and supports better business analysis.
+
+## Dashboard Link
+https://public.tableau.com/app/profile/eyazharasi.kumar/viz/supermarketanalysis_17902249297070/Dashboard1#1
 
 
