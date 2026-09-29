@@ -323,5 +323,50 @@ The Scatter Plot and supporting visualizations provide a clear view of sales per
 
 ## Dashboard Link
 https://public.tableau.com/app/profile/eyazharasi.kumar/viz/supermarketanalysis_17902249297070/Dashboard1#1
+# Week 11 - Business Category Analysis using Bubble Chart in Tableau
+
+## Dataset
+Supermarket Sales Dataset (Kaggle)
+
+## Tool
+Tableau Public
+
+## Objective
+To analyze and compare different business categories using a Bubble Chart and identify significant sales categories.
+
+## Visualizations Created
+
+1. **Sales by Product Line – Bubble Chart**
+2. **Sales by Branch – Bar Chart**
+3. **Sales by Customer Type – Pie Chart**
+4. **Sales Trend by Date – Line Chart**
+
+## Bubble Chart Analysis
+
+The Bubble Chart was created using **Product Line** as the categorical field and **Sales** as the numerical measure. The size of each bubble represents the sales contribution of the product line. This makes it easy to compare different business categories visually.
+
+## Interactive Filter
+
+A **Product Line filter** was added to the dashboard to allow users to view specific categories and analyze their performance.
+
+## Business Insights
+
+- Different product lines contribute differently to overall sales.
+- The Bubble Chart makes it easy to compare the sales contribution of each product category.
+- Branch-wise sales show differences in business performance between branches.
+- Customer type analysis shows the contribution of Member and Normal customers.
+- The sales trend helps identify changes in business performance over time.
+
+## Business Recommendations
+
+- Focus on product categories with higher sales contribution and maintain their performance.
+- Analyze lower-performing categories and improve their sales through suitable marketing and promotional activities.
+
+## Conclusion
+
+The Bubble Chart provides a simple visual comparison of different product categories based on their sales contribution. The additional visualizations and interactive filter provide a broader view of business performance and help in making data-driven decisions.
+
+## Dashboard Link
+https://public.tableau.com/app/profile/eyazharasi.kumar/viz/salesTask10/Dashboard1#1
 
 
