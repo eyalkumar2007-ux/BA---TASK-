@@ -368,5 +368,49 @@ The Bubble Chart provides a simple visual comparison of different product catego
 
 ## Dashboard Link
 https://public.tableau.com/app/profile/eyazharasi.kumar/viz/salesTask10/Dashboard1#1
+   ======================================================================================================================================================
+# Open Analysis – Amsterdam Weekday Dataset
+
+## Objective
+The objective of this task is to explore the Amsterdam Weekday dataset using Tableau Public and identify meaningful business insights through different visualizations, comparisons, and relationships.
+
+## Dataset
+- Dataset: Amsterdam Weekday Dataset
+- Tool Used: Tableau Public
+- Analysis Type: Open Business Analysis
+
+## Visualizations Created
+
+1. **Average Price by Room Type – Bar Chart**
+   - Compares the average price of different room types.
+
+2. **Price vs Guest Satisfaction – Scatter Plot**
+   - Analyzes the relationship between listing price and guest satisfaction.
+
+3. **Average Price by Person Capacity – Line Chart**
+   - Shows how the average price changes with accommodation capacity.
+
+4. **Room Type vs Cleanliness & Satisfaction – Heat Map**
+   - Helps identify patterns between room type, cleanliness rating, and guest satisfaction.
+
+## Interactive Filters
+- Room Type
+- Host is Superhost
+
+These filters allow users to interact with the dashboard and explore different categories.
+
+## Key Findings
+- The average price varies across different room types.
+- The relationship between price and guest satisfaction can be observed using the scatter plot.
+- Accommodation capacity shows differences in average pricing.
+- The heat map helps identify satisfaction patterns based on room type and cleanliness rating.
+
+## Suggestions and Recommendations
+- Hosts can improve cleanliness and service quality to maintain better guest satisfaction.
+- Pricing can be adjusted based on room type and accommodation capacity to remain competitive.
+
+## Conclusion
+The Tableau dashboard provides an interactive overview of Amsterdam weekday listings. The analysis helps understand pricing, room types, accommodation capacity, cleanliness, and guest satisfaction, supporting better business and hosting decisions.
+## link : https://public.tableau.com/app/profile/eyazharasi.kumar/viz/AMSTERDAMWEEKDAYBUSINESSANALYSISDASHBOARD/Dashboard1
 
 
