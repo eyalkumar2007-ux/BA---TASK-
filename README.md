@@ -411,6 +411,65 @@ These filters allow users to interact with the dashboard and explore different c
 
 ## Conclusion
 The Tableau dashboard provides an interactive overview of Amsterdam weekday listings. The analysis helps understand pricing, room types, accommodation capacity, cleanliness, and guest satisfaction, supporting better business and hosting decisions.
-## link : https://public.tableau.com/app/profile/eyazharasi.kumar/viz/AMSTERDAMWEEKDAYBUSINESSANALYSISDASHBOARD/Dashboard1
+# link : https://public.tableau.com/app/profile/eyazharasi.kumar/viz/AMSTERDAMWEEKDAYBUSINESSANALYSISDASHBOARD/Dashboard1
+# Task 13 – Open Analysis Dashboard
+
+## Superstore Sales Analysis Dashboard
+
+### Project Overview
+This project analyzes the Superstore dataset using Tableau Public to understand sales performance, product categories, monthly trends, and geographical sales distribution.
+
+### Dataset & Tools
+- **Dataset:** Superstore Dataset
+- **Tool:** Tableau Public
+- **Domain:** Retail and Sales Analytics
+
+### Dashboard Visualizations
+
+1. **Sales by Sub-Category – Treemap:** Displays sales distribution across product sub-categories and their main categories.
+2. **Monthly Sales Trend – Line Chart:** Shows changes in sales across months and years.
+3. **State-wise Sales – Map:** Displays geographical sales performance across different states.
+4. **Category-wise Sales – Packed Bubbles:** Compares total sales among Furniture, Office Supplies, and Technology.
+
+### Interactive Features
+- **Year of Order Date:** Allows users to explore sales for different years.
+- **Category Filter:** Helps users view sales performance for selected product categories.
+- **Interactive Charts:** Users can select chart elements to explore related sales information.
+
+### Business Questions & Answers
+
+**1. Which product categories contribute to sales?**
+
+Furniture, Office Supplies, and Technology are the three major product categories displayed in the dashboard.
+
+**2. How do sales change over time?**
+
+The monthly sales trend shows variations throughout the year, helping identify high-performing and low-performing periods.
+
+**3. Which states contribute to sales?**
+
+The state-wise sales map helps identify geographical differences in sales performance.
+
+**4. Which sub-categories have higher sales?**
+
+The treemap highlights sales differences among product sub-categories.
+
+### Key Findings
+1. Furniture and Office Supplies show significant sales contributions in the category comparison.
+2. Monthly sales fluctuate, indicating changes in sales performance over time.
+3. Sales distribution varies across states and product sub-categories.
+
+### Business Recommendations
+1. Focus on high-performing product categories and sub-categories to maintain sales growth.
+2. Study low-performing months and states to identify opportunities for improvement.
+
+### Conclusion
+The Superstore Sales Analysis Dashboard provides an interactive view of retail sales performance. Tableau visualizations help identify category-wise sales patterns, monthly trends, and geographical differences, supporting better business decisions.
+
+### Dashboard Link
+https://public.tableau.com/app/profile/eyazharasi.kumar/viz/BATASK13/Dashboard1#1
+
+
+
 
 
