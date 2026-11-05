@@ -468,7 +468,64 @@ The Superstore Sales Analysis Dashboard provides an interactive view of retail s
 
 ### Dashboard Link
 https://public.tableau.com/app/profile/eyazharasi.kumar/viz/BATASK13/Dashboard1#1
+# Task 14 – Geographical Analysis using Tableau
 
+## Project Overview
+This project focuses on performing geographical analysis using the **Sample Superstore Dataset** in Tableau Public. The dashboard helps analyze sales performance across different geographical regions and understand regional and category-wise sales patterns.
+
+## Dataset
+- **Dataset Name:** Sample Superstore
+- **Tool Used:** Tableau Public
+- **Data Fields:** State, City, Region, Category, Sub-Category, Order Date, Sales and Profit.
+
+## Visualizations Created
+
+### 1. Geographical Sales Distribution – Map
+- Displays sales distribution across different states.
+- Uses geographical fields such as State and City.
+- Sales values are represented using map colors and size.
+
+### 2. Region vs Category – Heat Map
+- Compares sales across four regions: East, West, Central and South.
+- Displays category-wise performance.
+- Uses Sales to represent color intensity.
+
+### 3. Monthly Sales Trend – Line Chart
+- Displays monthly sales performance over time.
+- Uses Order Date and Sales.
+- Helps identify changes in sales across different months.
+
+### 4. Sales by Sub-Category – Bar Chart
+- Compares sales across different product sub-categories.
+- Helps identify high-performing and low-performing sub-categories.
+
+## Interactive Filters
+The dashboard includes two interactive filters:
+
+1. **Region Filter** – Allows users to view sales performance by selected regions.
+2. **Category Filter** – Allows users to explore sales based on product categories.
+
+These filters make the dashboard interactive and help users explore specific sales patterns.
+
+## Key Findings
+- Regional sales performance can be compared using the geographical map.
+- The heat map helps identify differences in category-wise sales across regions.
+- The monthly sales trend highlights changes in sales over time.
+
+## Recommendations
+- Focus on improving sales performance in regions with lower sales.
+- Give more attention to product categories and sub-categories with lower sales performance.
+
+## Conclusion
+The Geographical Analysis Dashboard provides a clear understanding of regional sales distribution and category-wise performance. The interactive filters make it easier to explore the data and support better business decision-making.
+
+## Tools Used
+- Tableau Public
+- Sample Superstore Dataset
+
+## Project Outcome
+Created an interactive Tableau dashboard containing four visualizations, two interactive filters and geographical sales analysis.
+##Dashboard Link:https://public.tableau.com/app/profile/eyazharasi.kumar/viz/Task14_17938818422860/Dashboard1#1
 
 
 
